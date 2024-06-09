@@ -1,4 +1,4 @@
-# Dynamic Search Project
+# Dynamic Search for ecommerce
 
 This project demonstrates a dynamic search functionality that fetches and displays results as the user types in the search input. It utilizes a debounce function to limit the number of calls made to the server, enhancing performance and user experience.
 
